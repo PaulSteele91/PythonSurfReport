@@ -157,7 +157,7 @@ def main():
         zone = "America/New_York"
     elif timez == "Pacific":
         zone = "America/Los_Angeles"
-    elif timez != "Eastern" or timezone != "Pacific":
+    elif timez != "Eastern" or timez != "Pacific":
         print("Incorrect timezone input")
         return 1
 
