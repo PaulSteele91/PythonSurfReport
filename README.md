@@ -33,4 +33,3 @@ Full City Name (e.g., Playa Hermosa)
 Full State or Country (e.g., Costa Rica or California)
 
 Timezone Preference (Eastern or Pacific time)
-
